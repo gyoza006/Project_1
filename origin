@@ -1,0 +1,4 @@
+git init 
+README.md # My First Submission
+git add .
+git commit -m "Initial commit"
